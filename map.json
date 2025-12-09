@@ -741,7 +741,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Suitable for up to 300 users.\n\nCounting with several jitsi instances spread out throughout the map, four main big rooms for hosting workshops for several users and a garden for your chillout sessions, this is the map you are looking for when you have a populated event and need everyone to be able to meet in a simple yet efficient way."
+         "value":"Meetup space for collaboration and networking."
         }, 
         {
          "name":"mapImage",
@@ -756,7 +756,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Big Workshop"
+         "value":"HackerOne Club Germany: Remote Meetup"
         }, 
         {
          "name":"script",
