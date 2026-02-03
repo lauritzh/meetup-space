@@ -1064,22 +1064,9 @@
          "tilewidth":32
         }, 
         {
-         "columns":62,
-         "firstgid":14775,
-         "image":"..\/..\/..\/Downloads\/h1_Ambassador_Club_Logos_2024\/germany.png",
-         "imageheight":2000,
-         "imagewidth":2000,
-         "margin":0,
-         "name":"h1-club-logo",
-         "spacing":0,
-         "tilecount":3844,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
          "columns":8,
          "firstgid":18619,
-         "image":"..\/..\/..\/Downloads\/germany-256x256.png",
+         "image":"src\/assets\/germany-256x256.png",
          "imageheight":256,
          "imagewidth":256,
          "margin":0,
